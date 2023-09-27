@@ -1,6 +1,7 @@
 # Solo Pong Game
 
-![Pong Game Play](/Solo-Pong-GamePlay.png)
+![Pong Game Play](https://github.com/MukundAravapalli/PerceptronModel/assets/105079738/39311f54-0be2-4691-92a7-a248e302dc16)
+
 
 ## About
 In this version of the **Pong Game** you can practice a single player Pong Game by hitting the ball against 3 of the 4 walls and making sure it doesn't hit the 4th wall that you are defending. 
